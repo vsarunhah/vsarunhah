@@ -2,6 +2,7 @@
 <p align="center">
   <img src="/carbon.png">
 </p>
+
 I **love** learning about a lot of things and I want to be conversationally fluent in everything I hear about, whether it's politics, psychology or art. It seems to give me a unique way of looking at the world and who _doesn't_ want that?
 
 ##### Here's a little summary of my Github Profile:
