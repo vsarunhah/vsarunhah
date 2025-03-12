@@ -4,9 +4,6 @@
 
 I love building innovative applications, solving complex problems, and constantly learning new technologies. Currently, I'm working on **[Bondly](https://bondly-fe.vercel.app)**, a website that allows you to stay connected with friends, without needing to schedule meetings around everyone.  
 
-### 🌱 What I'm Learning
-Currently deep-diving into AWS OpenSearch Service and optimizing search capabilities. Also prepping for upcoming **Python interviews**! 🐍💡
-
 ⚡ **Fun Fact:** I enjoy working on side projects and exploring cutting-edge tech in my free time! If you love Python, Go, Java, or cloud computing, let's connect! 🚀
 
 #### Here's a quick summary of my Github Profile:
